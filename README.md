@@ -46,3 +46,20 @@
 [GitHub](https://github.com "点击跳转到github")
 
 ![自定义图片](C://Users//cui88//Desktop//xxx.jpg)
+
+
+```c
+	#include <stdio.h>
+	int main(void)
+	{
+		printf("hi c ..\n");
+		return 0;
+	}
+```
+
+```python
+	import os
+```
+```bash
+	sudo apt-get install tree
+```
