@@ -12,5 +12,14 @@
 <font face="黑体">黑体字型</font><br>
 <font size=7>7号字</font><br>
 <font size=3>3号字</font><br>
+<font color=#FF0000>红色字体</font><br>
 
-<font color=#FF0000>红色字体</font>
+*字体斜体特效*
+
+**粗体特效**
+
+***斜粗体特效***
+
+现在是一段描述，其中我要凸显`关键字`
+
+~~删除线特效~~
